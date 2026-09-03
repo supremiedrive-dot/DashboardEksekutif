@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>DASHBOARD BUILDER</title>
+</head>
+<body>
+
+    <div class="container">
+        <!--This is Sidebar-->
+        <aside>
+            <div class="toggle">
+                <div class="logo">
+                    <img src="images/logo.png">
+                    <h2>DASHBOARD<span class="danger"> BUILDER</span></h2>
+                </div>
+                <div class="close" id="close-btn">
+                    <span class="material-icons-sharp">
+                        close
+                    </span>
+                </div>
+            </div>
+
+            <div class="sidebar">
+                <a href="index.html" class="activetop">
+                    <span class="material-icons-sharp">
+                        dashboard
+                    </span>
+                    <h3>Dashboard</h3>
+                </a>
+                <a href="user.html">
+                    <span class="material-icons-sharp">
+                        task_alt
+                    </span>
+                    <h3>Validasi</h3>
+                </a>
+                <a href="history.html">
+                    <span class="material-icons-sharp">
+                        receipt_long
+                    </span>
+                    <h3>Perbaikan Data</h3>
+                    <span class="material-icons-sharp">
+                        expand_more
+                    </span>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        insights
+                    </span>
+                    <h3>Monitoring</h3>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        admin_panel_settings
+                    </span>
+                    <h3>Administrasi</h3>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        mail_outline
+                    </span>
+                    <h3>Pesan</h3>
+                    <span class="message-count">17</span>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        flag
+                    </span>
+                    <h3>Report</h3>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        settings
+                    </span>
+                    <h3>Settings</h3>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        info
+                    </span>
+                    <h3>Panduan & Bantuan</h3>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        logout
+                    </span>
+                    <h3>Logout</h3>
+                </a>
+            </div>
+
+        </aside>
+        <!--End of Sidebar-->
+
+        <!--Konten Utama-->
+        <main>
+            <h1>Dashboard</h1>
+            <!--Dashboard-->
+            <div class="dashboard">
+                <div class="total">
+                    <div class="status">
+                        <div class="info">
+                            <h3>Progres Lengkap</h3>
+                            <h1>60.578</h1>
+                        </div>
+                        <div class="progress">
+                            <svg>
+                                <circle cx="38" cy="38" r="36"></circle>
+                            </svg>
+                            <div class="percentage">
+                                <p>+80%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="validasisu">
+                    <div class="status">
+                        <div class="info">
+                            <h3>Progres Validasi 1</h3>
+                            <h1>29.786</h1>
+                        </div>
+                        <div class="progress">
+                            <svg>
+                                <circle cx="38" cy="38" r="36"></circle>
+                            </svg>
+                            <div class="percentage">
+                                <p>+40%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="validasibt">
+                    <div class="status">
+                        <div class="info">
+                            <h3>Progres Validasi 2</h3>
+                            <h1>40.786</h1>
+                        </div>
+                        <div class="progress">
+                            <svg>
+                                <circle cx="38" cy="38" r="36"></circle>
+                            </svg>
+                            <div class="percentage">
+                                <p>+60%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End Dashboard-->
+
+            
+
+            <!-- Table Pekerjaan -->
+            <div class="tabel-kerja">
+                <h2>Pekerjaan Sedang Berjalan</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Nama Pekerjaan</th>
+                            <th>Petugas</th>
+                            <th>Jumlah Pekerjaan</th>
+                            <th>Status</th>
+                            <th>Keterangan</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <a href="#">Show All</a>
+            </div>
+            <!-- End of Tabel Pekerjaan -->
+
+        </main>
+        <!--End of Konten Utama-->
+
+        <!--Bagian Kanan-->
+        <div class="right-section">
+            <div class="nav">
+                <button id="menu-btn">
+                    <span class="material-icons-sharp">
+                        menu
+                    </span>
+                </button>
+                <div class="dark-mode">
+                    <span class="material-icons-sharp active">
+                        light_mode
+                    </span>
+                    <span class="material-icons-sharp">
+                        dark_mode
+                    </span>
+                </div>
+
+                <div class="profile">
+                    <div class="info">
+                        <p>Hey, <b>Supremie</b></p>
+                        <small class="text-muted">Admin</small>
+                    </div>
+                    <div class="profile-photo">
+                        <img src="images/logo.png">
+                    </div>
+                </div>
+
+            </div>
+            <!--End of Nav-->
+
+            <div class="user-profile">
+                <div class="logo">
+                    <img src="images/logo.png">
+                    <h2>Supremie</h2>
+                    <p>Kementerian ATR/BPN</p>
+                </div>
+            </div>
+
+            <div class="reminders">
+                <div class="header">
+                    <h2>Pengingat</h2>
+                    <span class="material-icons-sharp">
+                        notifications_none
+                    </span>
+                </div>
+
+                <div class="notification">
+                    <div class="icon">
+                        <span class="material-icons-sharp">
+                            volume_up
+                        </span>
+                    </div>
+                    <div class="content">
+                        <div class="info">
+                            <h3>Waktu</h3>
+                            <small class="text_muted">
+                                08:00 AM - 12:00 PM
+                            </small>
+                        </div>
+                        <span class="material-icons-sharp">
+                            more_vert
+                        </span>
+                    </div>
+                </div>
+
+                <div class="notification deactive">
+                    <div class="icon">
+                        <span class="material-icons-sharp">
+                            edit
+                        </span>
+                    </div>
+                    <div class="content">
+                        <div class="info">
+                            <h3>Waktu</h3>
+                            <small class="text_muted">
+                                08:00 AM - 12:00 PM
+                            </small>
+                        </div>
+                        <span class="material-icons-sharp">
+                            more_vert
+                        </span>
+                    </div>
+                </div>
+
+                <div class="notification add-reminder">
+                    <div>
+                        <span class="material-icons-sharp">
+                            add
+                        </span>
+                        <h3>Tambah Pengingat</h3>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+    </div>
+    <script src="orders.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
