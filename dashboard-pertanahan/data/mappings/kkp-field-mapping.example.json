@@ -1,0 +1,12 @@
+{
+  "catatan": "Sesuaikan setelah contoh respons API KKP diterima. Aplikasi saat ini mengharapkan nama field kanonis berikut.",
+  "required_fields": {
+    "region_code": "Kode BPS kabupaten/kota",
+    "report_date": "Tanggal snapshot format YYYY-MM-DD",
+    "total_records": "Jumlah seluruh objek pertanahan",
+    "validated_stage_1": "Jumlah lolos validasi tahap 1",
+    "validated_stage_2": "Jumlah lolos validasi tahap 2",
+    "area_hectare": "Luas dalam hektare"
+  },
+  "response_envelope": { "records": "data" }
+}
