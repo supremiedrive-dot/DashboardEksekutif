@@ -1,0 +1,462 @@
+﻿[
+    {
+        "Path":  ".env",
+        "Hash":  "025197FB504F7E2DB917FCCE8EBF1CD26708A71BB602ECC78EE885AC3557B3B2"
+    },
+    {
+        "Path":  ".env.example",
+        "Hash":  "85B73F33EB462E387EE6003F5DA14425CFFFE32918FA33702454EAC2C82B44F0"
+    },
+    {
+        "Path":  ".gitignore",
+        "Hash":  "F8072068BB8CF4703F26FF11CFDF8C0F459D3F2E1FB1929F653C4D5B50F2199B"
+    },
+    {
+        "Path":  ".htaccess",
+        "Hash":  "EB6EA1FDA260F324D48738E52FFFAD199C522BAAA939689AED950AE48B7D61E5"
+    },
+    {
+        "Path":  ".tmp-workbook-audit.txt",
+        "Hash":  "1CC2FCE2F9F077E655CC5135B64A03C72CF22773C2AC0356C6BC533B0E93E57C"
+    },
+    {
+        "Path":  "config.php",
+        "Hash":  "5B825631D4726B92CADB644656A9E4A31A2F3595A4B95DB8CB0FFB4B34A2B08B"
+    },
+    {
+        "Path":  "dashboard.php",
+        "Hash":  "2EBFA501924DEB6A2DB5FE03176FDB7C1D1FE59EAEA1671AFE3F6D758246A4A9"
+    },
+    {
+        "Path":  "db.php",
+        "Hash":  "234B6E3E815FEADCC3D9DE101B96E5FB8AFC918509A34421F4977225BC9EC716"
+    },
+    {
+        "Path":  "docs.php",
+        "Hash":  "BB8EB5BA7A9349115B2749B8FD04C32D5C0333E113B01E5ED0C68B2EBE37499C"
+    },
+    {
+        "Path":  "import-excel.php",
+        "Hash":  "F1A24718DA542A875652A7C96166D2E337DCBC3E15961F88EE40E627DECD175F"
+    },
+    {
+        "Path":  "index.php",
+        "Hash":  "B9C8941418321516835FD2DF563D1CB594953D2A03C29237F59E0688C05BF736"
+    },
+    {
+        "Path":  "input-data.php",
+        "Hash":  "F1D306AB72361A6D50768B1167BD66E09F4E52C73DD8A3C0D0C55670AE0F9FCE"
+    },
+    {
+        "Path":  "KKP-INTEGRATION.md",
+        "Hash":  "275CFA372FBB14705821C4B499FBBC183D816DD982F63B1238032BD99AFB91D6"
+    },
+    {
+        "Path":  "login.php",
+        "Hash":  "703E534E07235671BBAEF44D418949C9A184BE305D6255F1B273C031E2AEC0BF"
+    },
+    {
+        "Path":  "logout.php",
+        "Hash":  "FECAE5CD484796ABC0BC42F8ED13DE5EFDFA2CEDE64D6043FDA1865BC6A0B571"
+    },
+    {
+        "Path":  "PROJECT_CONTEXT_DASHBOARD_PERTANAHAN.md",
+        "Hash":  "5D389EF685FDA9C54EFF155553BF0BB2935E97A65A876FDA59490F0839550023"
+    },
+    {
+        "Path":  "README.md",
+        "Hash":  "1B1BDB3733DC588CD0002C974573EE728BB1765E0008A121AC2867E6467AF637"
+    },
+    {
+        "Path":  "router.php",
+        "Hash":  "710C41F7B87282B67C020418ABB1DE8EE3BD68333D954702C0076968283F0570"
+    },
+    {
+        "Path":  "sync-kkp.php",
+        "Hash":  "5EE73FA7497EC663AA4D40F3995C05017029890F8E039847156B6DA234925135"
+    },
+    {
+        "Path":  "api\\.editorconfig",
+        "Hash":  "F78CC5A2EF8BA61AD956D0F5DB453748A981270F6A1B9F4A5A00DF8690E7946D"
+    },
+    {
+        "Path":  "api\\.env.example",
+        "Hash":  "A527DD22CEBD532F74BDCA8352DC2E624BDF0655A8C85BE88EDD35AC44BD13C3"
+    },
+    {
+        "Path":  "api\\.gitattributes",
+        "Hash":  "A40EB27EE0B545CA5B5542DAAF99FEC51F84F23B3766A6353864EF2A115BC51C"
+    },
+    {
+        "Path":  "api\\.gitignore",
+        "Hash":  "41E54ABD62AA86FD5B731E0CD411C5BC7D4196A1F7AEF363F434672DA8FFFA5D"
+    },
+    {
+        "Path":  "api\\artisan",
+        "Hash":  "F91A517C0C5D3A904C3F390933964A5E08EC1FC68146882730DAAC4ACA4FFCEC"
+    },
+    {
+        "Path":  "api\\composer.json",
+        "Hash":  "4074077F114D82B711663CB0E34FE0E3BCFC2DCD9E49AEEC4DFBC20F9654FC1D"
+    },
+    {
+        "Path":  "api\\composer.lock",
+        "Hash":  "7E91C4A8D9B1D9AD79B6640E67A3146F1466E7D17A9EB9506C5C111ECC157A8D"
+    },
+    {
+        "Path":  "api\\kkp.php",
+        "Hash":  "B50610B5840C79D1C33939A4F1B68DE3891040F9FF734039DFD7AB5DF35F7801"
+    },
+    {
+        "Path":  "api\\package.json",
+        "Hash":  "E1BF666B49A401C06EDE562B32FC741B8E8DC45CCA0A67DE136EDFBD51335F33"
+    },
+    {
+        "Path":  "api\\phpunit.xml",
+        "Hash":  "493369CFB7FEEA104DA4BEC214C2CC6526CA2F1B9D937C50A2961FC59CB61AAF"
+    },
+    {
+        "Path":  "api\\README.md",
+        "Hash":  "D8B15DFCDA5B6E61A96730AFEDC1ED5376E46BA367E21749A9D789CC222009C4"
+    },
+    {
+        "Path":  "api\\vite.config.js",
+        "Hash":  "B981A284135BCB7DA21EA5E1AAA2DC31C8DAEEF92D9B4E5C79538BDB8DFAF6F0"
+    },
+    {
+        "Path":  "api\\app\\Http\\Controllers\\Controller.php",
+        "Hash":  "25D1C1EF8E6CC8A376553FAACFBA2B07D9DFAEE9BDBB84F14F77517580E9DEB1"
+    },
+    {
+        "Path":  "api\\app\\Models\\User.php",
+        "Hash":  "5AC800BD5184F9CE88E7D0837FFA5701E56B0BB87BF612B760E3AF9859A22063"
+    },
+    {
+        "Path":  "api\\app\\Providers\\AppServiceProvider.php",
+        "Hash":  "CAF306EF6A25A547BBB7EDD5508A39B51C365083EB6DD58378CF2242018E94C7"
+    },
+    {
+        "Path":  "api\\bootstrap\\app.php",
+        "Hash":  "1061C7D5BA4FE82833DCF1449BF459F6705FAB855A13EADC9CA3C7C44EF0771E"
+    },
+    {
+        "Path":  "api\\bootstrap\\providers.php",
+        "Hash":  "F720E185207A343D4C19FC99DBB317A4187EFBCD7D38A303A695BBDD77FFB943"
+    },
+    {
+        "Path":  "api\\bootstrap\\cache\\.gitignore",
+        "Hash":  "240A3E0D37D2E86B614063F5347EB02D4F99CA6C254DE6B82871FF8D95532A7D"
+    },
+    {
+        "Path":  "api\\config\\app.php",
+        "Hash":  "78DCD36B226FD7B24057CB95F567CB6E96561C2406653892D8AEF6DCEA8461E4"
+    },
+    {
+        "Path":  "api\\config\\auth.php",
+        "Hash":  "C7E204E9785C9F596D66FB884B493F658F2327F157646BDB4088EFD6B3A7773F"
+    },
+    {
+        "Path":  "api\\config\\cache.php",
+        "Hash":  "B8BCF382283330B94C0A602FF06452DE819041EA709E28EEA5065D51D1D7D085"
+    },
+    {
+        "Path":  "api\\config\\database.php",
+        "Hash":  "06759B7B36B8641E9025FE03DD728970C4CB02D5B58FF709CBB0649987B4BFC2"
+    },
+    {
+        "Path":  "api\\config\\filesystems.php",
+        "Hash":  "BA7060D7A23E490C3CE830656F6D24AD3CCF5B868E3293F2A12E411959DC5635"
+    },
+    {
+        "Path":  "api\\config\\logging.php",
+        "Hash":  "299EC1BA5B5A803C8E20F666AE7628E442E856CC2FF7AC9E2ADB17B97E8AD63B"
+    },
+    {
+        "Path":  "api\\config\\mail.php",
+        "Hash":  "C43FF49A31C5F32CE21EB7159F2A4B3CD2F4074EAED5838D265646DBFEDD3474"
+    },
+    {
+        "Path":  "api\\config\\queue.php",
+        "Hash":  "6101774DA7C8B79AF46D0028F2B8B31A484C3F7EDA10B76E5B27B6093AD364A4"
+    },
+    {
+        "Path":  "api\\config\\sanctum.php",
+        "Hash":  "F8AE35944312702E9004765C753E16EC8B0CB0A7BCC3F379EFA250BFD7A53753"
+    },
+    {
+        "Path":  "api\\config\\services.php",
+        "Hash":  "8258C4487EB1D73A97E569EB0E411E3F25368044812DF4CBA807860432BE1D92"
+    },
+    {
+        "Path":  "api\\config\\session.php",
+        "Hash":  "F2E75E189021597E29940C0859C00C3088EC591E403768FFF5143C5687A80F59"
+    },
+    {
+        "Path":  "api\\database\\.gitignore",
+        "Hash":  "E758642D95E83E907E010B6E46B07B3F953C7CEF11FE5EBEFC2A77B9D7B4D5F7"
+    },
+    {
+        "Path":  "api\\database\\factories\\UserFactory.php",
+        "Hash":  "50BDC543F1B09D1A57260BE55AD0E1A68AEE4B34F63E1109DC94D9BCD3080526"
+    },
+    {
+        "Path":  "api\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+        "Hash":  "10D79883BC08CE46510F9AD8B1830B4D06D586DC56AE2C8BAC3B3E491F69A90F"
+    },
+    {
+        "Path":  "api\\database\\migrations\\0001_01_01_000001_create_cache_table.php",
+        "Hash":  "2CA8398390ECEF8EAF72AEAC7FEFCE67F7DE631B6F2EC7B7081C8DB8953215DC"
+    },
+    {
+        "Path":  "api\\database\\migrations\\0001_01_01_000002_create_jobs_table.php",
+        "Hash":  "7C9C712ADF4091C87BF2612F4D0DCCDFA1DF4501553E4AC068B83D7BD5462FA5"
+    },
+    {
+        "Path":  "api\\database\\migrations\\2026_09_03_121723_create_personal_access_tokens_table.php",
+        "Hash":  "C81ECDE85EA5072188C468DCAF79776728B6EB8F684D63FC0D88A4908484CA75"
+    },
+    {
+        "Path":  "api\\database\\migrations\\2026_09_03_133822_add_role_to_users_table.php",
+        "Hash":  "36C52793D90BD62DB70E7D3C5753512DBC8EAD6403E99A15CC3252C43179EA49"
+    },
+    {
+        "Path":  "api\\database\\seeders\\DatabaseSeeder.php",
+        "Hash":  "CF8E4B6E48360218BB5534F66419C955288F78338EB8A3DBA9D8AC3394EC3DBC"
+    },
+    {
+        "Path":  "api\\public\\.htaccess",
+        "Hash":  "B7E379C77639FD56144947DBAE84C84EB466D9C686EA81F2F013AE85421DA923"
+    },
+    {
+        "Path":  "api\\public\\favicon.ico",
+        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "Path":  "api\\public\\index.php",
+        "Hash":  "EBA77CBA39695B6BD091FE5211D481F7EBB2CE2D8D26230B5A609465D0A4AFF9"
+    },
+    {
+        "Path":  "api\\public\\robots.txt",
+        "Hash":  "E5C4B84484EE4216E9373BE99380320C25DD94805F99F0A805846F087636553F"
+    },
+    {
+        "Path":  "api\\resources\\css\\app.css",
+        "Hash":  "9F49ED837FDC773B89A294D1E86DC68828EF2F774D7E797BA5F89C2A08C84760"
+    },
+    {
+        "Path":  "api\\resources\\js\\app.js",
+        "Hash":  "CF6DAB196C721F6911FF99CC4F910897F978599A2D289971A316A5FC33091F94"
+    },
+    {
+        "Path":  "api\\resources\\js\\bootstrap.js",
+        "Hash":  "6FD9FC82E68FA915A882F4E227B9FAACBE7BFD66CB953C628840E83BDA6B72F4"
+    },
+    {
+        "Path":  "api\\resources\\views\\welcome.blade.php",
+        "Hash":  "E50E41602994840B788471625FEC54A4DB6138EC971BE05CFDFBA40DAF906C22"
+    },
+    {
+        "Path":  "api\\routes\\api.php",
+        "Hash":  "2385AFE02170F9DD34262CFA2D23C903CF73DA7CC1F299E18A48BB726E1AD827"
+    },
+    {
+        "Path":  "api\\routes\\console.php",
+        "Hash":  "9ADCCC33E7DD400683E434774077C7FDB2F299C5712CEDF16A43FDF56F2850FA"
+    },
+    {
+        "Path":  "api\\routes\\web.php",
+        "Hash":  "248C7EEEB43BB61EE4FB6603E52B44843C64F72A841D671BCD41871AAB23F970"
+    },
+    {
+        "Path":  "api\\storage\\app\\.gitignore",
+        "Hash":  "993B9E3709D7B5189DA331725D1169D79E561A509DB2490B722B525073D2D976"
+    },
+    {
+        "Path":  "api\\storage\\app\\private\\.gitignore",
+        "Hash":  "240A3E0D37D2E86B614063F5347EB02D4F99CA6C254DE6B82871FF8D95532A7D"
+    },
+    {
+        "Path":  "api\\storage\\app\\public\\.gitignore",
+        "Hash":  "240A3E0D37D2E86B614063F5347EB02D4F99CA6C254DE6B82871FF8D95532A7D"
+    },
+    {
+        "Path":  "api\\storage\\framework\\.gitignore",
+        "Hash":  "2D452D65596636197757AFA17DF52331C84DA7BB74EE0F3462FD5BE4EB6AFDC6"
+    },
+    {
+        "Path":  "api\\storage\\framework\\cache\\.gitignore",
+        "Hash":  "32F79194633DDB34F013C6EE8819D112104FF822357ADF308EC385B46A7F42F6"
+    },
+    {
+        "Path":  "api\\storage\\framework\\cache\\data\\.gitignore",
+        "Hash":  "240A3E0D37D2E86B614063F5347EB02D4F99CA6C254DE6B82871FF8D95532A7D"
+    },
+    {
+        "Path":  "api\\storage\\framework\\sessions\\.gitignore",
+        "Hash":  "240A3E0D37D2E86B614063F5347EB02D4F99CA6C254DE6B82871FF8D95532A7D"
+    },
+    {
+        "Path":  "api\\storage\\framework\\testing\\.gitignore",
+        "Hash":  "240A3E0D37D2E86B614063F5347EB02D4F99CA6C254DE6B82871FF8D95532A7D"
+    },
+    {
+        "Path":  "api\\storage\\framework\\views\\.gitignore",
+        "Hash":  "240A3E0D37D2E86B614063F5347EB02D4F99CA6C254DE6B82871FF8D95532A7D"
+    },
+    {
+        "Path":  "api\\storage\\logs\\.gitignore",
+        "Hash":  "240A3E0D37D2E86B614063F5347EB02D4F99CA6C254DE6B82871FF8D95532A7D"
+    },
+    {
+        "Path":  "api\\tests\\TestCase.php",
+        "Hash":  "C7C209F5579C42647C1F7B2A79AC828E8B54AC62A98442045A6E94FA2C0D0EBC"
+    },
+    {
+        "Path":  "api\\tests\\Feature\\ExampleTest.php",
+        "Hash":  "AAA4A192FB4AA96D4E81EDA06A29968DA3D9A73B71026B87A67297E66DD985B8"
+    },
+    {
+        "Path":  "api\\tests\\Unit\\ExampleTest.php",
+        "Hash":  "FFACAE5C1A2A44C809420AF5B3B404910DA1B12167D58764DAC6D10B8BA8CFAF"
+    },
+    {
+        "Path":  "assets\\app.js",
+        "Hash":  "1413E924B401A7B4A79CDD66D8D6D3CF197EEE4F43B96A78EDE38628094F86FD"
+    },
+    {
+        "Path":  "assets\\dashboard.css",
+        "Hash":  "17087EBDB2ACDC1135423A8D2AE3A4FB70CAFAC2654B01BDA963C540A2DE9D3C"
+    },
+    {
+        "Path":  "assets\\logo.png",
+        "Hash":  "05D2E1E1F1C18B38D12EC1D42A0839BE7DB223157BE45446E12DFA13E582C7FE"
+    },
+    {
+        "Path":  "assets\\style.css",
+        "Hash":  "5C69F4E9F4A6CED5473ED1FADAA58865A256BC05BA9CBFB18EB6662335D7F6E0"
+    },
+    {
+        "Path":  "config\\environment.php",
+        "Hash":  "18D71514EACA5225001488B71F57377F9DA915F933665D3A418E5D5CD34B3D6D"
+    },
+    {
+        "Path":  "config\\kkp.env.example",
+        "Hash":  "4C72B915ED209BC46448E8BFA423D04A3BCFBFCFB855CDBD33BC9CDE095424D0"
+    },
+    {
+        "Path":  "data\\dashboard.sqlite",
+        "Hash":  "92C6F213D77D77AD03BDEB0CF54DE5292C317B057E6944EEF9093E2FF7B17733"
+    },
+    {
+        "Path":  "data\\mappings\\excel-jawa-barat.php",
+        "Hash":  "FB60AA1E9130C4B03BA23B6A07251F8275D69BA19F3CFB071E67B8B92FCE3E34"
+    },
+    {
+        "Path":  "data\\mappings\\kkp-field-mapping.example.json",
+        "Hash":  "B80BC26140A60D1BE9EAF829D24AD1FDAB5882FF38B4FF276E614A93A453178F"
+    },
+    {
+        "Path":  "data\\sessions\\sess_5l2u47ecilip73ji264pra67vj",
+        "Hash":  "515F09AD3269A0390DEA269A5471D85EF9D7C017B65178A9EDE9310D988BEF40"
+    },
+    {
+        "Path":  "data\\sessions\\sess_al3j0178uf31m9rjc477nfoarb",
+        "Hash":  "D80B7AC340E95116A269525CB808C39559F52442AD133EA3C998A36E61A29322"
+    },
+    {
+        "Path":  "data\\sessions\\sess_b7cil26c9e88j75s8ta75svrni",
+        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "Path":  "data\\sessions\\sess_bmjmu3u37hf93vpbcvi1b7gotc",
+        "Hash":  "8B4D22120549133FF5FC17C4C58C477B3E3CEFF72457635B052641E7FBC99E35"
+    },
+    {
+        "Path":  "data\\sessions\\sess_k74qgeqdere7knf7hfmuvhlq4c",
+        "Hash":  "CF297C5EDE93B8FD32AC50E9E807C4E2BBEFC99B21AADD62AF09F07F17F7E948"
+    },
+    {
+        "Path":  "data\\sessions\\sess_khecqmisu17p67nkbkhvcls7g6",
+        "Hash":  "515F09AD3269A0390DEA269A5471D85EF9D7C017B65178A9EDE9310D988BEF40"
+    },
+    {
+        "Path":  "data\\sessions\\sess_pn4brm0s4tdifu92khleqibv38",
+        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "Path":  "data\\sessions\\sess_s39n60khb6o6gng013da5c19t9",
+        "Hash":  "9D7A1046647AD6BEF65E9EA43AEA6DEF419B896DDA4B5729103FF718BAD0914C"
+    },
+    {
+        "Path":  "data\\sessions\\sess_tr7daaf4b1fngvisrq3qmq3l09",
+        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "Path":  "data\\source\\Input Data Jawa Barat.xlsx",
+        "Hash":  "DA15B8F0C633E06F0D34E0D9C279877665A7508757DDF7F2BF4DD532A14C6B7D"
+    },
+    {
+        "Path":  "data\\source\\Kamus_Data_Dashboard_Pertanahan_FINAL.xlsx",
+        "Hash":  "53073318BEDC2A8389FD2D0CA5AEF429B18B28EB7852B7D4895CF18B708687AC"
+    },
+    {
+        "Path":  "database\\Connection.php",
+        "Hash":  "01858FCE8F5F2B0350820951B6A4325C25DD8DED6DAC55952A36E70E32189C77"
+    },
+    {
+        "Path":  "database\\create-admin.php",
+        "Hash":  "5A62399AFF945F94236DB4127666A18753B03650CCBF32F7B128DF266542DA56"
+    },
+    {
+        "Path":  "database\\import-demo-sqlite.php",
+        "Hash":  "5A87B36DB55D600A325E56732D43F68E7F7FC33BEE9CD8C1E94600FB4D55A842"
+    },
+    {
+        "Path":  "database\\migrate.php",
+        "Hash":  "CA5A18813BCE6E3DD3AFCE2A8D4ACEFB0577A7F1274792B84B1F332B46F441F8"
+    },
+    {
+        "Path":  "database\\schema.sql",
+        "Hash":  "4BC2C94F78A417FD6460AF637FF694EED0CB0041CC6997AF495522C0321B88FF"
+    },
+    {
+        "Path":  "database\\seeders\\reference_seed.sql",
+        "Hash":  "F87270724B0B29A18C5AF101AE2896246CDC1DD2724857C5E89B0F1E62719563"
+    },
+    {
+        "Path":  "database\\seeders\\regions_jawa_barat.sql",
+        "Hash":  "1F16B28662D45FFD3CA9316B9FF5D5DDB1FA2D100AA39FA294F5016FB7AFF4F1"
+    },
+    {
+        "Path":  "services\\DashboardDataService.php",
+        "Hash":  "CEC8079AFCC8D343B796CD4879D70FC590A48FFB52348584636115DF4415CC9B"
+    },
+    {
+        "Path":  "services\\ExcelWorkbookImporter.php",
+        "Hash":  "111F8314BCDB11623C085DF970FA7923F77810C7A7D91921FCBE03895BC5C565"
+    },
+    {
+        "Path":  "services\\KkpClient.php",
+        "Hash":  "F2BED8BE5214E67F60685AE522960F151B24738551C2869DEFEBF238B6887D21"
+    },
+    {
+        "Path":  "tests\\DashboardDataServiceTest.php",
+        "Hash":  "E7AA38986E86FF524CCB08C9E69350637062EBE00402A83FC3BE304069820043"
+    },
+    {
+        "Path":  "tests\\EnvironmentTest.php",
+        "Hash":  "6DCEA5368B58C201AA398455F505708FDFCEC58FDF596743C4BF7745648E9D45"
+    },
+    {
+        "Path":  "tests\\ExcelWorkbookImporterTest.php",
+        "Hash":  "9829D83B8C9BC7B7BF0183F9F4870EFB5405537DAF632CDCC02208DF936D75D6"
+    },
+    {
+        "Path":  "tests\\HttpSmokeTest.php",
+        "Hash":  "F3635BFF8AF16CE6E08098880EC05738A717FBFEC14E1166F9F5946F1C2B3C15"
+    },
+    {
+        "Path":  "tests\\MySqlIntegrationTest.php",
+        "Hash":  "4F3C32E16C9B1F8BC21B70D6BB4F0D0D6EFC41BC8408B594F05DF31C781BD3EE"
+    }
+]

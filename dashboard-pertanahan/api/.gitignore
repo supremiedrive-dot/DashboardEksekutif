@@ -1,24 +1,55 @@
-*.log
-.DS_Store
+# Rahasia / konfigurasi lokal
 .env
-.env.backup
-.env.production
-.phpactor.json
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependency/runtime output
+vendor/
+node_modules/
+public/build/
+bootstrap/cache/
+storage/logs/
 .phpunit.result.cache
-/.fleet
-/.idea
-/.nova
-/.phpunit.cache
-/.vscode
-/.zed
-/auth.json
-/node_modules
-/public/build
-/public/hot
-/public/storage
-/storage/*.key
-/storage/pail
-/vendor
-Homestead.json
-Homestead.yaml
+coverage/
+*.log
+
+# Database lokal
+*.sqlite
+*.sqlite3
+*.db
+**/*.sqlite
+**/*.sqlite3
+**/*.db
+
+# Workbook / data lokal
+/data/source/*.xlsx
+/data/source/*.xls
+**/data/source/*.xlsx
+**/data/source/*.xls
+/data/sessions/
+/data/sessions/*
+
+# File temporer/editor/OS
+*.tmp
+*.tmp*
+*.temp
+*.bak
+*.orig
+.tmp-*
+cache/
+tmp/
+temp/
+.DS_Store
 Thumbs.db
+.vscode/
+.idea/
+.fleet/
+.nova/
+.zed/
+
+# Folder kosong yang dibutuhkan
+!.gitkeep
+!**/.gitkeep

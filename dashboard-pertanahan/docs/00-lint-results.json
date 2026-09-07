@@ -1,0 +1,282 @@
+﻿[
+    {
+        "file":  "config.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\config.php"
+    },
+    {
+        "file":  "dashboard.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\dashboard.php"
+    },
+    {
+        "file":  "db.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\db.php"
+    },
+    {
+        "file":  "docs.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\docs.php"
+    },
+    {
+        "file":  "import-excel.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\import-excel.php"
+    },
+    {
+        "file":  "index.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\index.php"
+    },
+    {
+        "file":  "input-data.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\input-data.php"
+    },
+    {
+        "file":  "login.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\login.php"
+    },
+    {
+        "file":  "logout.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\logout.php"
+    },
+    {
+        "file":  "router.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\router.php"
+    },
+    {
+        "file":  "sync-kkp.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\sync-kkp.php"
+    },
+    {
+        "file":  "api\\kkp.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\kkp.php"
+    },
+    {
+        "file":  "api\\app\\Http\\Controllers\\Controller.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\app\\Http\\Controllers\\Controller.php"
+    },
+    {
+        "file":  "api\\app\\Models\\User.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\app\\Models\\User.php"
+    },
+    {
+        "file":  "api\\app\\Providers\\AppServiceProvider.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\app\\Providers\\AppServiceProvider.php"
+    },
+    {
+        "file":  "api\\bootstrap\\app.php",
+        "exit":  -1,
+        "output":  " Parse error: syntax error, unexpected \u0027:\u0027, expecting \u0027)\u0027 in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\bootstrap\\app.php on line 7 PHP Parse error:  syntax error, unexpected \u0027:\u0027, expecting \u0027)\u0027 in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\bootstrap\\app.php on line 7 Errors parsing C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\bootstrap\\app.php"
+    },
+    {
+        "file":  "api\\bootstrap\\providers.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\bootstrap\\providers.php"
+    },
+    {
+        "file":  "api\\config\\app.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\app.php"
+    },
+    {
+        "file":  "api\\config\\auth.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\auth.php"
+    },
+    {
+        "file":  "api\\config\\cache.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\cache.php"
+    },
+    {
+        "file":  "api\\config\\database.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\database.php"
+    },
+    {
+        "file":  "api\\config\\filesystems.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\filesystems.php"
+    },
+    {
+        "file":  "api\\config\\logging.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\logging.php"
+    },
+    {
+        "file":  "api\\config\\mail.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\mail.php"
+    },
+    {
+        "file":  "api\\config\\queue.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\queue.php"
+    },
+    {
+        "file":  "api\\config\\sanctum.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\sanctum.php"
+    },
+    {
+        "file":  "api\\config\\services.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\services.php"
+    },
+    {
+        "file":  "api\\config\\session.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\config\\session.php"
+    },
+    {
+        "file":  "api\\database\\factories\\UserFactory.php",
+        "exit":  -1,
+        "output":  "PHP Parse error:  syntax error, unexpected \u0027static\u0027 (T_STATIC) in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\database\\factories\\UserFactory.php on line 39  Parse error: syntax error, unexpected \u0027static\u0027 (T_STATIC) in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\database\\factories\\UserFactory.php on line 39 Errors parsing C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\database\\factories\\UserFactory.php"
+    },
+    {
+        "file":  "api\\database\\migrations\\0001_01_01_000000_create_users_table.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\database\\migrations\\0001_01_01_000000_create_users_table.php"
+    },
+    {
+        "file":  "api\\database\\migrations\\0001_01_01_000001_create_cache_table.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\database\\migrations\\0001_01_01_000001_create_cache_table.php"
+    },
+    {
+        "file":  "api\\database\\migrations\\0001_01_01_000002_create_jobs_table.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\database\\migrations\\0001_01_01_000002_create_jobs_table.php"
+    },
+    {
+        "file":  "api\\database\\migrations\\2026_09_03_121723_create_personal_access_tokens_table.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\database\\migrations\\2026_09_03_121723_create_personal_access_tokens_table.php"
+    },
+    {
+        "file":  "api\\database\\migrations\\2026_09_03_133822_add_role_to_users_table.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\database\\migrations\\2026_09_03_133822_add_role_to_users_table.php"
+    },
+    {
+        "file":  "api\\database\\seeders\\DatabaseSeeder.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\database\\seeders\\DatabaseSeeder.php"
+    },
+    {
+        "file":  "api\\public\\index.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\public\\index.php"
+    },
+    {
+        "file":  "api\\routes\\api.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\routes\\api.php"
+    },
+    {
+        "file":  "api\\routes\\console.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\routes\\console.php"
+    },
+    {
+        "file":  "api\\routes\\web.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\routes\\web.php"
+    },
+    {
+        "file":  "api\\tests\\TestCase.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\tests\\TestCase.php"
+    },
+    {
+        "file":  "api\\tests\\Feature\\ExampleTest.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\tests\\Feature\\ExampleTest.php"
+    },
+    {
+        "file":  "api\\tests\\Unit\\ExampleTest.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\api\\tests\\Unit\\ExampleTest.php"
+    },
+    {
+        "file":  "config\\environment.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\config\\environment.php"
+    },
+    {
+        "file":  "data\\mappings\\excel-jawa-barat.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\data\\mappings\\excel-jawa-barat.php"
+    },
+    {
+        "file":  "database\\Connection.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\database\\Connection.php"
+    },
+    {
+        "file":  "database\\create-admin.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\database\\create-admin.php"
+    },
+    {
+        "file":  "database\\import-demo-sqlite.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\database\\import-demo-sqlite.php"
+    },
+    {
+        "file":  "database\\migrate.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\database\\migrate.php"
+    },
+    {
+        "file":  "services\\DashboardDataService.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\services\\DashboardDataService.php"
+    },
+    {
+        "file":  "services\\ExcelWorkbookImporter.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\services\\ExcelWorkbookImporter.php"
+    },
+    {
+        "file":  "services\\KkpClient.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\services\\KkpClient.php"
+    },
+    {
+        "file":  "tests\\DashboardDataServiceTest.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\tests\\DashboardDataServiceTest.php"
+    },
+    {
+        "file":  "tests\\EnvironmentTest.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\tests\\EnvironmentTest.php"
+    },
+    {
+        "file":  "tests\\ExcelWorkbookImporterTest.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\tests\\ExcelWorkbookImporterTest.php"
+    },
+    {
+        "file":  "tests\\HttpSmokeTest.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\tests\\HttpSmokeTest.php"
+    },
+    {
+        "file":  "tests\\MySqlIntegrationTest.php",
+        "exit":  0,
+        "output":  "No syntax errors detected in C:\\xampp\\htdocs\\dashboard-pertanahan\\tests\\MySqlIntegrationTest.php"
+    }
+]

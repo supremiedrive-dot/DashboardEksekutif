@@ -1,0 +1,68 @@
+# Konfigurasi rahasia
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependency/runtime output
+vendor/
+node_modules/
+public/build/
+storage/logs/
+bootstrap/cache/
+bootstrap/cache/*
+.phpunit.result.cache
+coverage/
+*.log
+
+# Database lokal
+*.sqlite
+*.sqlite3
+*.db
+**/*.sqlite
+**/*.sqlite3
+**/*.db
+/database/*.sqlite
+/database/*.sqlite3
+/database/*.db
+/data/*.sqlite
+/data/*.sqlite3
+/data/*.db
+
+# Workbook sumber / data lokal
+/data/source/*.xlsx
+/data/source/*.xls
+**/data/source/*.xlsx
+**/data/source/*.xls
+/data/sessions/
+/data/sessions/*
+
+# File temporer/editor/OS
+*.tmp
+*.tmp*
+*.temp
+*.bak
+*.orig
+.tmp-*
+cache/
+tmp/
+temp/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.fleet/
+.nova/
+.zed/
+
+# Uploads / runtime artefacts
+/uploads/*
+!/uploads/.gitkeep
+
+# Keep required folders empty but tracked
+!.gitkeep
+!**/.gitkeep
+
+/BackupDashboardEksekutif/

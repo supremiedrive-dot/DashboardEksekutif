@@ -1,0 +1,38 @@
+﻿[
+    {
+        "path":  "AGENTS.md",
+        "sha256":  "F82A22DA032A36E2CB2BA3C5D40C5E1FA93B4148B7F1074E26F585D9C7D4DCB2"
+    },
+    {
+        "path":  "docs/00-current-state-audit.md",
+        "sha256":  "B0FFE94F2DBE7B5B7BBE639DD7A94DFCEFD106372321814311CBF4CBE0E4322E"
+    },
+    {
+        "path":  "docs/01-auth-api-audit.md",
+        "sha256":  "E92668496C088040938950E8B954831AC81388622513552F8F0AF57B9167CAAD"
+    },
+    {
+        "path":  "docs/02-data-dictionary-mapping.md",
+        "sha256":  "E3B38437CC7A8199340E87FD5B1555F9EB779EAEE913121E9889DCF0501A4951"
+    },
+    {
+        "path":  "docs/03-menu-dashboard-blueprint.md",
+        "sha256":  "E006BD1112F9DEFDD41DA351EA37D417A6273791578EB3876FBE3B1C78414C71"
+    },
+    {
+        "path":  "docs/04-database-plan.md",
+        "sha256":  "22D62EF2B739FF130AF1E52A3FB2E9BA3836B48A6D33456A482B1F32E1E3B4D9"
+    },
+    {
+        "path":  "docs/data-reconciliation.md",
+        "sha256":  "B086F42928AFBCCA29A900F3A50DADA1048F446E5BB46B59ADB5AA8E22245635"
+    },
+    {
+        "path":  "docs/implementation-plan.md",
+        "sha256":  "4416D349EDA4DE592C5FC0E69348E448FB11CCDC8D9916950EC794849EA7ED5C"
+    },
+    {
+        "path":  "docs/progress.md",
+        "sha256":  "7BD3ECA78CC8E0EBEB148FC905FD113402A8A4E45C7FFA6B0F587A45F018D485"
+    }
+]

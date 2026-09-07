@@ -8,6 +8,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 class User extends Authenticatable
 {
@@ -23,7 +24,7 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
-        'role',
+        'is_active',
     ];
 
     /**
@@ -46,6 +47,32 @@ class User extends Authenticatable
         return [
             'email_verified_at' => 'datetime',
             'password' => 'hashed',
+            'is_active' => 'boolean',
         ];
+    }
+
+    public function roles(): BelongsToMany
+    {
+        return $this->belongsToMany(Role::class, 'user_roles')->withTimestamps();
+    }
+
+    public function regionScopes(): BelongsToMany
+    {
+        return $this->belongsToMany(Region::class, 'user_region_scopes')->withTimestamps();
+    }
+
+    public function hasActiveRole(string $code): bool
+    {
+        return $this->roles()->where('code', $code)->where('roles.is_active', true)->exists();
+    }
+
+    public function hasRegionScope(Region $region): bool
+    {
+        return $this->regionScopes()->where(function ($query) use ($region) {
+            $query->where('regions.id', $region->id);
+            if ($region->parent_id) {
+                $query->orWhere('regions.id', $region->parent_id);
+            }
+        })->where('regions.is_active', true)->exists();
     }
 }

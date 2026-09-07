@@ -1,0 +1,7 @@
+Options -Indexes
+<FilesMatch "^(\.|.*\.(sql|sqlite|db|bak)$)">
+    Require all denied
+</FilesMatch>
+RewriteEngine On
+RewriteRule (^|/)\. - [F,L]
+RewriteRule ^(?:data|database|config|services|tests|docs|tmp|temp)(?:/|$) - [F,L,NC]

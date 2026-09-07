@@ -1,0 +1,21 @@
+﻿{
+    "date":  "2026-09-06",
+    "requiredDocuments":  9,
+    "missingDocuments":  [
+
+                         ],
+    "baselineFiles":  115,
+    "changedNonDocumentation":  [
+
+                                ],
+    "addedNonDocumentation":  [
+
+                              ],
+    "dictionaryRows":  58,
+    "uniqueDictionaryRows":  58,
+    "excelColumns":  54,
+    "uniqueExcelColumns":  54,
+    "blueprintRows":  58,
+    "knownDemoLiteralHits":  0,
+    "runtimeVerified":  false
+}
